@@ -1,1 +1,3 @@
+Cual es la diferencia entre compilacion e interpretacion?
 
+El compilador sigue el codigo fuente y lo transforma en codigo maquina, mientras que el interprete coge el codigo y segun lo lee lo va ejecutando, no lo transforma en lenguaje maquina. 
