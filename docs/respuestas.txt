@@ -1,1 +1,11 @@
+Cual es la diferencia entre compilacion e interpretacion?
+
+El compilador sigue el codigo fuente y lo transforma en codigo maquina, mientras que el interprete coge el codigo y segun lo lee lo va ejecutando, no lo transforma en lenguaje maquina. 
+
+
+¿Cu´al es la principal diferencia entre el contenido del fichero helloWorld.sh y helloWorld.rb?
+-Que son lenguajes diferentes. El primero es un script de bash y el segundo es de ruby.
+
+¿Qu´e significado tiene la primera l´ınea del fichero helloWorld.sh?
+#! /bin/sh  --> Es el tipo de shell que interpreta los scripts.
 
