@@ -9,3 +9,4 @@ El compilador sigue el codigo fuente y lo transforma en codigo maquina, mientras
 ¿Qu´e significado tiene la primera l´ınea del fichero helloWorld.sh?
 #! /bin/sh  --> Es el tipo de shell que interpreta los scripts.
 
+
